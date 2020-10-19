@@ -2,7 +2,7 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of covidcolsa is to make available the Coivd-19 data and statistics for Colombia and South Africa easy to access through R Shiny App that can be run by simple functions using the package. It consists of the counts of tests, cases, recoveries, and deaths summarized and compared between the two regions.
+The goal of 'covidcolsa' is to make available the Coivd-19 data and statistics for Colombia and South Africa easy to access through R Shiny App that can be run by simple functions using the package. It consists of the counts of tests, cases, recoveries, and deaths summarized and compared between the two regions.
 
 ## Installation
 
@@ -15,10 +15,12 @@ devtools::install_github("etc5523-2020/r-package-assessment-rahul-bharadwaj")
 
 ## Example
 
-This is a basic example which shows you how to solve a common problem:
+This is a basic example which loads the required datasets:
 
 ``` r
-library(yourpkg)
-## basic example code
+library(covidcolsa)
+covid_colsa
+DailyCOL
+DailyZAF
 ```
 
