@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "rahulbharadwaj97@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Contains data and statistics in R shiny app that analyses the Covid-19 situation in Colombia and South Africa. Counts of tests, cases confirmed, recoveries and deaths are summarized and compared between the two regions. The app itself and its functionalities is made available through functions and data from the package 'covidcolsa'.
+Description: Contains data and statistics in R shiny app that analyses the Covid-19 situation in Colombia and South Africa. Counts of tests, cases confirmed, recoveries and deaths are summarized and compared between the two regions. The app itself and its functionalities is made available through functions and data from the package 'covidcolsa'. There are three main datasets which include one with both countries data named 'covid_colsa' and the other two named 'DailyCOL' and 'DailyZAF' for daily counts in the regions.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
