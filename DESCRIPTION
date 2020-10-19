@@ -1,15 +1,14 @@
-Package: yourPkg
-Title: What the Package Does (One Line, Title Case)
+Package: covidcolsa
+Title: Covid-19 Shiny Dashboard for Colombia and South Africa
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Rahul Bharadwaj",
+           family = "Mysore Venkatesh",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "rahulbharadwaj97@gmail.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Description: Contains data and statistics in R shiny app that analyses the Covid-19 situation in Colombia and South Africa. Counts of tests, cases confirmed, recoveries and deaths are summarized and compared between the two regions. The app itself and its functionalities is made available through functions and data from the package 'covidcolsa'.
+License: GPL-3
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
