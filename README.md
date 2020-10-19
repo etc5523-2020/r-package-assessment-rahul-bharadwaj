@@ -1,15 +1,16 @@
-
-# Your Package Name
+# covidcolsa
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of _your package name_ is to ...
+The goal of covidcolsa is to make available the Coivd-19 data and statistics for Colombia and South Africa easy to access through R Shiny App that can be run by simple functions using the package. It consists of the counts of tests, cases, recoveries, and deaths summarized and compared between the two regions.
 
 ## Installation
 
-You can install the  _your package name_ with:
+You can install the  covidcolsa with:
 
 ``` r
+# install.package("devtools")
+devtools::install_github("etc5523-2020/r-package-assessment-rahul-bharadwaj")
 ```
 
 ## Example
