@@ -16,4 +16,13 @@ RoxygenNote: 7.1.1
 Depends: 
     R (>= 2.10)
 Suggests: 
-    testthat
+    testthat,
+    knitr,
+    rmarkdown
+VignetteBuilder: knitr
+Imports: 
+    shiny,
+    usethis,
+    ggplot2,
+    dplyr,
+    gridExtra
