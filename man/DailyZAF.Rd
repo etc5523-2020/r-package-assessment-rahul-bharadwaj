@@ -16,4 +16,17 @@ DailyZAF
 \description{
 This data contains 271 observations and 6 variables for Covid stats in South Africa from January 2020. The data is wrangled from the following original data source.
 }
+\details{
+\strong{id} - Country Code
+
+\strong{date} - Date of observation
+
+\strong{dailytest} - Daily Count of tests for a date
+
+\strong{dailyconfirm} - Daily Count of confirmed for a date
+
+\strong{dailyrecover} - Daily Count of recovered for a date
+
+\strong{dailydeaths} - Daily Count of deaths for a date
+}
 \keyword{datasets}
