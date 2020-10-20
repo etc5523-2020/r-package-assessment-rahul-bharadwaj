@@ -24,4 +24,3 @@ covid_colsa
 DailyCOL
 DailyZAF
 ```
-
