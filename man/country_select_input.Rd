@@ -12,5 +12,5 @@ country_select_input(id, choices)
 \item{choices}{The choices you want to provide for the selectInput.}
 }
 \description{
-This function is used to make custom input selections for different regions.
+This function is used to make custom input selections for different regions as a substitute for shiny function selectInput.
 }

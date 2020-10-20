@@ -13,22 +13,22 @@ The data comes from Guidotti, E., Ardia, D., (2020), "COVID-19 Data Hub", Journa
 \usage{
 covid_colsa
 }
-\arguments{
-\item{id}{Country Code}
-
-\item{date}{Date of observation}
-
-\item{tests}{Count of tests for a date}
-
-\item{confirmed}{Count of confirmed for a date}
-
-\item{recovered}{Count of recovered for a date}
-
-\item{deaths}{Count of deaths for a date}
-
-\item{key_apple_mobility}{Country Name}
-}
 \description{
 This data contains 35 variables for Covid stats in Colombia and South Africa from January 2020.
+}
+\details{
+\strong{id} - Country Code
+
+\strong{date} - Date of observation
+
+\strong{tests} - Total Count of tests for a date
+
+\strong{confirmed} - Total Count of confirmed for a date
+
+\strong{recovered} - Total Count of recovered for a date
+
+\strong{deaths} - Total Count of deaths for a date
+
+\strong{key_apple_mobility} - Country Name
 }
 \keyword{datasets}

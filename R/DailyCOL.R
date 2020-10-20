@@ -12,7 +12,8 @@
 #' 
 #' **dailyrecover** - Daily Count of recovered for a date
 #' 
-#' **dailydeaths** - Daily Count of deaths for a date#' @source
-#' The data comes from Guidotti, E., Ardia, D., (2020), "COVID-19 Data Hub", Journal of Open Source Software 5(51):2376, doi: 10.21105/joss.02376, through the R package "COVID19" and filtered for the country Colombia and South Africa.
+#' **dailydeaths** - Daily Count of deaths for a date
+#' 
+#'@source The data comes from Guidotti, E., Ardia, D., (2020), "COVID-19 Data Hub", Journal of Open Source Software 5(51):2376, doi: 10.21105/joss.02376, through the R package "COVID19" and filtered for the country Colombia and South Africa.
 #'
 "DailyCOL"

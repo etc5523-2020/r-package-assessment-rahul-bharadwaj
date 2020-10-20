@@ -7,5 +7,5 @@
 launch_app()
 }
 \description{
-This function automatically launches the Shiny App and makes it available to the user to have an overview of how the datasets are used to compare the stats in Colombia and South Africa. This App can be used as a starting point to learn the potential visualizations using the data available in 'covidcolsa'.
+This function automatically launches the Shiny App and makes it available to the user.
 }
