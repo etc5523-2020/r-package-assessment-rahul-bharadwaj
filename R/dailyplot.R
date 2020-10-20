@@ -5,6 +5,7 @@
 #' @param data A dataset which consists of daily counts of all attributes.
 #' @export
 dailyplot <- function(data){
+  library(ggplot2)
   data %>% ggplot() +
     geom_line(aes(x = date, y = dailytest, color = "dailytested")) +
     geom_line(aes(x = date, y = dailyconfirm, color = "dailyconfirmed")) +
